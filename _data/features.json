@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Ph.D. Researchers",
+    "description": "We are experienced machine learning, statistics, and bioscience researchers",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Healthcare experience",
+    "description": "We are also healthcare and health policy researchers",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
