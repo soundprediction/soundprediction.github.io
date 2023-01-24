@@ -2,7 +2,7 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/promo/soundvblack.png"
+intro_image: "images/promo/soundvblack.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
