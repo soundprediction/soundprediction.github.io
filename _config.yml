@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Sound Prediction'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
