@@ -1,5 +1,15 @@
 [
-{
+    {
+        "title": "Mederrata Research Inc.",
+        "description": "Mederrata Research  is a non-profit working on reducing medical errors.",
+        "url": "https://www.mederrata.org",
+        "image": {
+          "url": "images/partners/mederrata.png",
+          "width": 175,
+          "height": 40
+        }
+      },
+    {
     "title": "Humana",
     "description": "Humana innovation sandbox.",
     "url": "https://www.humana.com",
@@ -9,14 +19,4 @@
       "height": 80
     }
   },
-  {
-    "title": "Mederrata Research",
-    "description": "Healthcare research",
-    "url": "https://www.mederrata.org",
-    "image": {
-      "url": "images/partners/mederrata.png",
-      "width": 175,
-      "height": 40
-    }
-  }
 ]

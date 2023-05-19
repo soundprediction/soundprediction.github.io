@@ -74,7 +74,7 @@ bodyClass: "page-home"
 
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-      <h3 class="feature-title">Key partners</h3>
+      <h2 class="service-title">Key partners</h2>
     </div>
     <div class="row justify-content-center">
       <br />
@@ -82,7 +82,7 @@ bodyClass: "page-home"
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if partner.image %}
-          <div class="partner-image"><img alt="{{ partner.title }} logo" src="{{ partner.image.url | relative_url }}" width="{{ partner.image.width }}" height="{{ partner.image.height }}" /></div>
+          <div class="partner-image"><a href="{{ partner.url }}"><img alt="{{ partner.title }} logo" src="{{ partner.image.url | relative_url }}" width="{{ partner.image.width }}" height="{{ partner.image.height }}" /></a></div>
           {% endif %}
           <div class="feature-content">{{ partner.description }}</div>
         </div>
