@@ -69,18 +69,22 @@ bodyClass: "page-home"
 {% endif %}
 
 {% if site.data.partners %}
+
 <div class="strip strip-grey">
+
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-
+      <h3 class="feature-title">Key partners</h3>
+    </div>
+    <div class="row justify-content-center">
+      <br />
       {% for partner in site.data.partners %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% if partner.image %}
+          <div class="partner-image"><img alt="{{ partner.title }} logo" src="{{ partner.image.url | relative_url }}" width="{{ partner.image.width }}" height="{{ partner.image.height }}" /></div>
           {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
+          <div class="feature-content">{{ partner.description }}</div>
         </div>
       </div>
       {% endfor %}

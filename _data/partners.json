@@ -1,0 +1,22 @@
+[
+{
+    "title": "Humana",
+    "description": "Humana innovation sandbox.",
+    "url": "https://www.humana.com",
+    "image": {
+      "url": "images/partners/humana.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Mederrata Research",
+    "description": "Healthcare research",
+    "url": "https://www.mederrata.org",
+    "image": {
+      "url": "images/partners/mederrata.png",
+      "width": 175,
+      "height": 40
+    }
+  }
+]
