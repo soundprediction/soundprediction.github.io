@@ -11,7 +11,7 @@ We work closely with Mederrata Research and our other partner institutes in orde
 
 * **Joshua C. Chang, Hongjing Xia, Ted L. Chang, Rohit Mahajan, Sonya Mahajan,** Sarah Nowak, Carson C. Chow, Interpretable (not just posthoc-explainable) mediation analysis for reducing hospital acquired conditions and unplanned readmissions,* Preprint coming soon.
 
-* **Hongjing Xia,** **Joshua C. Chang,** Sarah Nowak, **Rohit Mahajan, Sonya Mahajan, Ted L. Chang,** Carson C. Chow. *Interpretable (not just posthoc-explainable) causal inference for the bias-corrected assignment of postdischarge interventions to prevent hospital readmissions,* [arXiv:2304.09981](https://arxiv.org/abs/2304.09981).
+* **Hongjing Xia,** **Joshua C. Chang,** Sarah Nowak, **Rohit Mahajan, Sonya Mahajan, Ted L. Chang,** Carson C. Chow. *Interpretable (not just posthoc-explainable) heterogeneous survivor bias-corrected treatment effects for assignment of postdischarge interventions to prevent readmissions,* [arXiv:2304.09981](https://arxiv.org/abs/2304.09981).
 
 * **Joshua C. Chang,** **Ted L. Chang,** Carson C. Chow, Rohit Mahajan, **Sonya Mahajan,** Joe Maisog, Shashaank Vattikuti, **Hongjing Xia,**  *Interpretable (not just posthoc-explainable) medical claims modeling for discharge placement to reduce preventable all-cause readmissions or death,* [AAAI 2023 AI for Social Good Workshop](https://amulyayadav.github.io/AI4SG2023/)  [arXiv:2208.12814](https://arxiv.org/abs/2208.12814)
 
